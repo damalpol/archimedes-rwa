@@ -192,7 +192,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
   document.getElementById("join-archimedes").addEventListener("click", () => {
     console.log("Join Archimedes button clicked!");
-    window.location.href = "https://example.com/join-archimedes"; // Placeholder URL
+    //window.location.href = "https://example.com/join-archimedes"; // Placeholder URL
   });
 
   updateLanguage("en");
